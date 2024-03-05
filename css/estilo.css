@@ -1,0 +1,82 @@
+#principal
+{
+    width:800px;
+    height:2000px;
+    background-color: red;
+    margin: 20px;
+}
+#sombrero1
+{
+    width: 116px;
+    height: 60px;
+    background-color:black;
+    border-radius: 51% 49% 49% 51% / 100% 100% 0% 0% ;
+    position: relative;
+    left: 285px;
+    top: 155px;
+}
+#sombrero2
+{
+    width: 350px;
+    height: 60px;
+    background-color:black;
+    border-radius: 51% 49% 49% 51% / 47% 47% 53% 53%;
+    position: relative;
+    left: 170px;
+    top: 155px;
+}
+
+#cabeza
+{
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    border-radius: 200px;
+    position: relative;
+    left: 150px;
+    top: 150px;
+}
+#ojo1
+{
+    width: 80px;
+    height: 80px;
+    background-color: skyblue;
+    border-radius: 51% 49% 49% 51% / 100% 100% 0% 0%;
+    display: inline-block;
+    position: relative;
+    top: 130px;
+    left: 100px;
+
+}
+#ojo2
+{
+    width: 80px;
+    height: 80px;
+    background-color: skyblue;
+    border-radius: 51% 49% 49% 51% / 100% 100% 0% 0% ;
+    display: inline-block;
+    position: relative;
+    top: 130px;
+    left: 140px;
+
+}
+#nariz
+{
+    width: 60px;
+    height: 60px;
+    background-color: blue;
+    border-radius: 51% 49% 49% 51% / 28% 28% 72% 72% ;
+    position: relative;
+    top: 130px;
+    left: 175px;
+}
+#boca
+{
+    width: 200px;
+    height: 40px;
+    background-color: #d22e2e;
+    border-radius: 51% 49% 49% 51% / 0% 0% 100% 100%; 
+    position: relative;
+    top: 140px;
+    left: 110px;
+}
